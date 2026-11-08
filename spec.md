@@ -24,7 +24,7 @@ A small browser app for writing, saving, and finding notes. It meets the require
 
 ```
 
-python3 -m http.server 8000
+py -m http.server 8000
 
 ```
 
