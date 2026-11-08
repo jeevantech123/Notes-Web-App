@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Notes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Notes</h1>
+
+    <section class="editor">
+      <label for="note-text">Note</label>
+      <textarea id="note-text" rows="8" placeholder="Write a note..."></textarea>
+      <button id="save-button" type="button">Save</button>
+    </section>
+
+    <section class="saved">
+      <h2>Saved notes</h2>
+      <p id="empty-message">No notes yet.</p>
+      <ul id="note-list"></ul>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
