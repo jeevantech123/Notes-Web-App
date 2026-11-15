@@ -1,4 +1,4 @@
-\# Problem
+# Problem
 
 
 
@@ -6,25 +6,15 @@ Students and people who work with computers or phones often need to write down a
 
 
 
-\# Initial requirements
+# Initial requirements
 
 
 
-\- R1. The user can type a note and save it
-
-\- R2. Saved notes appear in a list
-
-\- R3. User can open a saved note and read it
-
-\- R4. Saved notes are still there after the browser is closed and reopened
-
-\- R5. User can edit a saved note
-
-\- R6. User can delete a note
-
-\- R7. No account or login is needed to use the app
-
-
-
-
+* R1. The user can type a note and save it
+* R2. Saved notes appear in a list
+* R3. User can open a saved note and read it
+* R4. Saved notes are still there after the browser is closed and reopened
+* R5. User can edit a saved note
+* R6. User can delete a note
+* R7. No account or login is needed to use the app
 
